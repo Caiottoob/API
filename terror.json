@@ -1,0 +1,46 @@
+[
+    {
+        "id": 5,
+        "genero": "TERROR",
+        "filme": "Um Lugar Silencioso",
+        "classificacao_indicativa": 14,
+        "duracao": "1h 30min",
+        "avaliacao_critica": 3.0,
+        "capa": "https://br.web.img2.acsta.net/c_310_420/pictures/18/03/01/20/26/0577579.jpg",
+        "diretor": "John Krasinski",
+        "data_de_lancamento": "5 de abril de 2018"
+    },
+    {
+        "id": 6,
+        "genero": "TERROR",
+        "filme": "Jogos Mortais: Jigsaw",
+        "classificacao_indicativa": 18,
+        "duracao": "1h 32min",
+        "avaliacao_critica": 3.0,
+        "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/17/11/17/23/57/4731159.jpg",
+        "diretor": "Michael Spierig, Peter Spierig",
+        "data_de_lancamento": "30 de novembro de 2017"
+    },
+    {
+        "id": 7,
+        "genero": "TERROR",
+        "filme": "A Morte do Demônio: A Ascensão",
+        "classificacao_indicativa": 18,
+        "duracao": "1h 37min",
+        "avaliacao_critica": 4.0,
+        "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/23/04/14/21/50/1023913.jpg",
+        "diretor": "Lee Cronin",
+        "data_de_lancamento": "20 de abril de 2023"
+    },
+    {
+        "id": 8,
+        "genero": "TERROR",
+        "filme": "O Telefone Preto",
+        "classificacao_indicativa": 16,
+        "duracao": "1h 43min",
+        "avaliacao_critica": 4.0,
+        "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/22/06/23/21/10/1998178.jpg",
+        "diretor": "Scott Derrickson",
+        "data_de_lancamento": "21 de julho de 2022"
+    }
+]

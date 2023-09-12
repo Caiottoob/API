@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "genero": "AÇÃO",
+        "filme": "Velozes e Furiosos 10",
+        "classificacao_indicativa": 14,
+        "duracao": "2h 21min",
+        "avaliacao_critica": 3.5,
+        "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/23/05/16/22/53/0156803.jpg",
+        "diretor": "Louis Leterrier",
+        "data_de_lancamento": "18 de maio de 2023"
+    },
+    {
+        "id": 2,
+        "genero": "AÇÃO",
+        "filme": "Alita: Anjo de Combate",
+        "classificacao_indicativa": 14,
+        "duracao": "2h 02min",
+        "avaliacao_critica": 3.0,
+        "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/19/01/31/11/55/2714336.jpg",
+        "diretor": "Robert Rodriguez",
+        "data_de_lancamento": "14 de fevereiro de 2019"
+    },
+    {
+        "id": 3,
+        "genero": "AÇÃO",
+        "filme": "Vingadores: Guerra Infinita",
+        "classificacao_indicativa": 12,
+        "duracao": "2h 36min",
+        "avaliacao_critica": 4.0,
+        "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/18/03/16/15/08/2019826.jpg",
+        "diretor": "Joe Russo, Anthony Russo",
+        "data_de_lancamento": "26 de abril de 2018"
+    },
+    {
+        "id": 4,
+        "genero": "AÇÃO",
+        "filme": "John Wick",
+        "classificacao_indicativa": 14,
+        "duracao": "2h 50min",
+        "avaliacao_critica": 4.0,
+        "capa": "https://br.web.img2.acsta.net/c_310_420/pictures/22/12/05/09/07/2007563.jpg",
+        "diretor": "Chad Stahelski",
+        "data_de_lancamento": "23 de março de 2023"
+    }
+]

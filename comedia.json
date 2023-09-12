@@ -1,0 +1,46 @@
+[
+    {
+        "id": 9,
+        "genero": "COMÉDIA",
+        "filme": "Mistério em Paris",
+        "classificacao_indicativa": 14,
+        "duracao": "1h 29min",
+        "avaliacao_critica": 3.5,
+        "capa": "https://br.web.img2.acsta.net/c_310_420/pictures/23/04/03/16/27/2188262.jpg",
+        "diretor": "Jeremy Garelick",
+        "data_de_lancamento": "31 de março de 2023"
+    },
+    {
+        "id": 10,
+        "genero": "COMÉDIA",
+        "filme": "Que Horas Eu Te Pego?",
+        "classificacao_indicativa": 2,
+        "duracao": "1h 43min",
+        "avaliacao_critica": 4.0,
+        "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/23/04/25/00/50/3748586.jpg",
+        "diretor": "Gene Stupnitsky",
+        "data_de_lancamento": "22 de junho de 2023"
+    },
+    {
+        "id": 11,
+        "genero": "COMÉDIA",
+        "filme": "A Prosposta",
+        "classificacao_indicativa": 12,
+        "duracao": "1h 48min",
+        "avaliacao_critica": 4.0,
+        "capa": "https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/87/29/75/19874043.jpg",
+        "diretor": "Anne Fletcher",
+        "data_de_lancamento": "10 de julho de 2009"
+    },
+    {
+        "id": 12,
+        "genero": "COMÉDIA",
+        "filme": "O Homem Perfeito",
+        "classificacao_indicativa": 14,
+        "duracao": "1h 30min",
+        "avaliacao_critica": 1.5,
+        "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/18/08/16/16/22/0326724.jpg",
+        "diretor": "Marcus Baldini",
+        "data_de_lancamento": "27 de setembro de 2018"
+    }
+]
